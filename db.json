@@ -1,43 +1,13 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Orange Juice",
-      "price": "31111"
-    },
-    {
-      "id": 2,
-      "name": "Apple Juice",
-      "price": "1"
-    },
-    {
-      "name": "Common Juice",
-      "price": "300",
-      "id": 3
-    },
-    {
-      "name": "Fresh Juice",
-      "price": "200",
-      "id": 4
-    },
-    {
-      "name": "CocaCola",
-      "price": "200",
-      "id": 5
-    },
-    {
       "name": "Ribs",
-      "price": 2000,
-      "id": 6
-    },
-    {
-      "name": "Ribs",
-      "price": 2000,
+      "price": "20000",
       "id": 7
     },
     {
-      "name": "French Fries",
-      "price": 1000,
+      "name": "Chips",
+      "price": "2000",
       "id": 8
     }
   ]
